@@ -2,8 +2,8 @@
 
 ## Reporting / Bildirim
 
-Güvenlik açıkları için: **medya@kesif.org**
-For security issues: **medya@kesif.org**
+Güvenlik açıkları için: **bilgi@mustafayilmaz.art**
+For security issues: **bilgi@mustafayilmaz.art**
 
 - Public issue **açmayın** / do **not** file public issues
 - 72 saat yanıt / 72-hour response
